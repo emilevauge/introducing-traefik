@@ -47,7 +47,7 @@ class: center, middle
 ---
 class: center, middle, inverse
 # Here comes
-![traefik](images/traefik.site.svg)
+![traefik](images/traefik.logo.svg)
 
 ---
 class: center, middle
@@ -99,6 +99,10 @@ class: center, middle
 
 <i class="fa fa-check-square"></i> Manners: graceful shutdown of http.Handler servers
 ]
+
+---
+class: center, middle
+<iframe src="https://ghbtns.com/github-btn.html?user=emilevauge&repo=traefik&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 ---
 class: center, middle, inverse
