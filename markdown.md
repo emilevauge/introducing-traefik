@@ -93,13 +93,13 @@ class: center, middle
   ## Plumbing
 ]
 .right-column[
-<i class="fa fa-check-square"></i> Oxy: an awsome proxy library made by Mailgun guys
+<i class="fa fa-check-square"></i> **Oxy**: an awsome proxy library made by Mailgun guys
 
-<i class="fa fa-check-square"></i> Gorilla mux: famous request router
+<i class="fa fa-check-square"></i> **Gorilla mux**: famous request router
 
-<i class="fa fa-check-square"></i> Negroni: web middlewares made simple
+<i class="fa fa-check-square"></i> **Negroni**: web middlewares made simple
 
-<i class="fa fa-check-square"></i> Manners: graceful shutdown of http.Handler servers
+<i class="fa fa-check-square"></i> **Manners**: graceful shutdown of http.Handler servers
 ]
 
 ---
