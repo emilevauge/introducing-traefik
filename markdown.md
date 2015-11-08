@@ -84,6 +84,8 @@ class: center, middle
 <i class="fa fa-check-square"></i> Tiny docker image included
 
 <i class="fa fa-check-square"></i> WebUI
+
+<i class="fa fa-check-square"></i> Websockets
 ]
 ---
 
