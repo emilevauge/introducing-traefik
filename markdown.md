@@ -99,9 +99,9 @@ class: center, middle
 
 <i class="fa fa-check-square"></i> **Negroni**: web middlewares made simple
 
-<i class="fa fa-check-square"></i> Manners: graceful shutdown of http.Handler servers
+<i class="fa fa-check-square"></i> **Manners**: graceful shutdown of http.Handler servers
 
-<i class="fa fa-check-square"></i> Viper/Cobra: Configuration and command line from @spf13
+<i class="fa fa-check-square"></i> **Viper/Cobra**: Configuration and command line from @spf13
 ]
 
 ---
