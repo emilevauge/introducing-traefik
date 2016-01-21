@@ -98,16 +98,26 @@ class: center, middle
 <i class="fa fa-check-square"></i> Negroni: web middlewares made simple
 
 <i class="fa fa-check-square"></i> Manners: graceful shutdown of http.Handler servers
+
+<i class="fa fa-check-square"></i> Viper/Cobra: Configuration and command line from @spf13
 ]
+
+---
+class: center, middle, inverse
+# Demo
 
 ---
 class: center, middle
 <iframe src="https://ghbtns.com/github-btn.html?user=emilevauge&repo=traefik&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
 
 ---
-class: center, middle, inverse
-# Demo
+class: center, middle
 
+##Mantl from Cisco Cloud
+![Mantl](images/mantl-logo.png)
+
+##Apollo from Cap Gemini
+![Mantl](images/apollo-logo.png)
 ---
 class: center, middle, inverse
 
